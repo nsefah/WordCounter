@@ -1,2 +1,2 @@
 # WordCounter
-Program that counts the words in a file, and then makes hashmaps from how often they appear.
+Program that counts the words in a file, and then makes hashmaps from how often they appear. Written in Java.
